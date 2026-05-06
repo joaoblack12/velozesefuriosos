@@ -20,8 +20,5 @@ Atender aos seguintes requisitos:
 - Cards posicionados lado a lado (com Flexbox)
 - Efeito simples ao interagir (hover)
 
----
-
-## 📝 Créditos
  
 Tema: Velozes e Furiosos 🏁
